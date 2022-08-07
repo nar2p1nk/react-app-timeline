@@ -35,3 +35,14 @@ but ass you can see it worked perfectly
 we have the picture,the title and the description of the books(the last book's text clips tho)
 
 overall, a pretty barebone project
+
+## 3.[todo-app](https://github.com/nar2p1nk/todo-react)
+
+
+![Screenshot from 2022-08-08 02-35-42](https://user-images.githubusercontent.com/77182511/183305962-acb58c70-f5eb-4ada-b995-3a4364644ccb.png)
+
+This is my first todo-app with react, it's pretty much just a todo-app but fullstack.  
+
+The [backend](https://github.com/nar2p1nk/todoApi) is made using express.
+
+
