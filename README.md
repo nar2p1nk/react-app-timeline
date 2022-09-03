@@ -65,4 +65,16 @@ then i thought why not build a react app for it.
 
 It was a bad idea as it took weeks to design and code it but i enjoyed it nonetheless
 
-The backend code is in the same repo btw
+The [backend](https://github.com/nar2p1nk/toDont) code is in the same repo btw
+
+## 4. Aqueous
+
+
+![Screenshot from 2022-09-03 12-15-13](https://user-images.githubusercontent.com/77182511/188255575-792d0a9c-91f4-48f8-9344-5d6a31b29393.png)
+
+![Screenshot from 2022-09-03 12-16-41](https://user-images.githubusercontent.com/77182511/188255577-d8b94621-3b1e-4587-bda6-63a39d8eb5d0.png)
+
+This app was a bit of a step down from the app before but it took less time to develop
+
+it's just a weather app, i didn't even make the [weather component](https://www.npmjs.com/package/react-autocomplete-hint)
+so uh.... hire meh.
